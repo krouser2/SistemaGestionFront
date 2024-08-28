@@ -57,6 +57,22 @@ img {
 
 }
 
+.header-div{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+
+.header-div a {
+    text-decoration: none;
+}
+.header-div a h2{
+    font-size: 40px;
+    color: #047857;
+    font-weight: bold;
+}
+
 .Header .main-browser a {
     color: black;
     /* color: #fff; */
