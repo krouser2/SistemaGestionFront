@@ -44,6 +44,7 @@ img {
     width: 100%;
     /* background-color: #dddddd; */
     background-color: #fff;
+    position: fixed;
 }
 
 .Header .main-browser {
